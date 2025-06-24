@@ -1,8 +1,13 @@
-body {background-color: aquamarine;
-margin: auto;
-padding: ;}
-h1 {color: black;
-text-align: end;
-font-family: ;
-font-weight: ;
-font-style: ;}
+body{
+    background-color: aquamarine;
+    margin: auto;
+    padding-top: 0% ;
+}
+
+h1{
+    color: black;
+    text-align: end;
+    font-family: 'Courier New';
+    font-weight: 200;
+    font-style: italic;
+}
