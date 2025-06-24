@@ -15,3 +15,20 @@ h1{
     <html lang="pt-br">
     <head>
     <meta charset="UTF-8">
+    body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 100%; /* 100% da largura da tela */
+  height: 100vh; /* 100% da altura da tela */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  font-size: 5vw; /* A fonte será 5% da largura da tela */
+}
